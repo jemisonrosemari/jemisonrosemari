@@ -57,17 +57,17 @@ Major in Computer Science
 Awards: Honors’ List  
 
 ### Hard Skills
-CSS
-Git
-HTML5
-Java
-JavaScript
-PHP
-Postgres SQL
-Python
-R
-SQL
-XML 
+CSS  
+Git  
+HTML5  
+Java  
+JavaScript  
+PHP  
+Postgres SQL  
+Python  
+R  
+SQL  
+XML
 
 ### Soft Skills
 Analytical Thinking  
@@ -76,10 +76,9 @@ Problem-solving
 Project Management  
 Verbal Communication  
 Written Communication  
+ 
 
 ### Operating Systems
-Linux
-MacOS
-Windows  
-
-
+Linux  
+MacOS  
+Windows
