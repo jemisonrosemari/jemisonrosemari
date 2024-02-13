@@ -2,22 +2,23 @@
 
 
 # ROSEMARI BURTON
-## Data Scientist
+## Software Developer
 rosemari.burton6@icloud.com
 
 ***
 ### Summary
-Analytical and thorough Computer Scientist excellent at handling large, complex information to understand and improve processes. Methodical about conducting thorough evaluations and building well-founded recommendations. Experienced in automation and forward-thinking in identifying new and improved solutions.
+A skilled software developer with a Bachelor of Science in Computer Science and a passion for coding. After taking time off to raise a family, I am excited to return to work and apply my knowledge to real-world projects. I am proficient in programming languages such as Java and Python, and have experience working on both front-end and back-end development.
 
 ***
 ### Experience
 01/2020 – 01/2024  
 Computer Science Undergraduate  
 University of the People |Pasadena, CA  
--	Covered abstract concepts that can be applied to almost any programming language, including Python, Java, and C++.
-- Investigated data mining and machine learning algorithms in both supervised and unsupervised learning.
--	Used the R programming language for performing clustering, classification, and regression analysis.
--	Learned the capabilities and operation of many algorithms, including decision trees, k-means, k-nearest neighbors, linear regression, ID3 for decision trees, and the Perceptron.
+-	Reinforced a strong foundation in computer science fundamentals such as algorithms, data structures, and computer architecture.
+-	Implemented front-end and back-end development projects using software development frameworks, libraries, databases, and tools.
+-	Modeled and designed relational databases and developed SQL queries ensuring data, entity, and referential integrity.
+-	Conducted data mining and machine learning in supervised, unsupervised, and reinforcement learning utilizing Python and R.
+
 
 #
 02/2012 – 03/2023  
@@ -56,13 +57,17 @@ Major in Computer Science
 Awards: Honors’ List  
 
 ### Hard Skills
-Data Analysis  
-Cleaning and Preparing Data  
-Deep Learning  
-Machine Learning  
-Modeling Techniques  
-Modeling Tools  
-Statistical Analysis  
+CSS
+Git
+HTML5
+Java
+JavaScript
+PHP
+Postgres SQL
+Python
+R
+SQL
+XML 
 
 ### Soft Skills
 Analytical Thinking  
@@ -72,12 +77,9 @@ Project Management
 Verbal Communication  
 Written Communication  
 
-### Tools
-C++  
-Java  
-Python  
-R  
-SQL  
-Tableau  
+### Operating Systems
+Linux
+MacOS
+Windows  
 
 
